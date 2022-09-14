@@ -1,10 +1,11 @@
-#include "main.h"
-
-/* main - Entry point
+#include "main.h
+"
+/** main - Entry point
+ *
+ * Description: prints _putchar
  *
  * Return: nothing, return void
  */
-
 int main(void)
 {
 	_putchar('_');
