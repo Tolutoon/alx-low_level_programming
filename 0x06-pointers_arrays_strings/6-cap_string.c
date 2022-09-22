@@ -25,15 +25,17 @@ char *cap_string(char *s)
 			for (j = 0; sep[j] != '\0'; j++)
 			{
 				if (s[i - 1] == sep[j])
+				{
 					flag = 1;
-				break;
+					break;
+				}
 			}
 		}
 		if (flag == 1)
 		{
 			if (s[i] <= 'z' && s[i] >= 'a')
 			{
-				s[i] = s[i] - 32;
+				s[i] -= ('a' - 'A');
 			}
 		}
 	}
