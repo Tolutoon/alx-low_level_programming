@@ -25,12 +25,13 @@ void reverse_array(int *a, int n)
 	 * value in temp to begin with the last
 	 */
 
-	for (; i < n - 1; i++)
+	while (i < n - 1)
 	{
-		for (; i < n - 1; j--)
-		{
-			a[i] = a[j];
-			a[j] = temp;
-		}
+		temp = a[i];
+		a[i] = a[j];
+		a[j] = temp;
+		i++;
+		j--;
 	}
+
 }
