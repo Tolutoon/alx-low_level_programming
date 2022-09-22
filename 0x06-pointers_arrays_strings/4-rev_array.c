@@ -25,7 +25,7 @@ void reverse_array(int *a, int n)
 	 * value in temp to begin with the last
 	 */
 
-	while (i < n - 1)
+	while (i < j)
 	{
 		temp = a[i];
 		a[i] = a[j];
