@@ -6,7 +6,6 @@
  **
  ** Return: Always 0.
  **/
-
 int main(void)
 {
 	char str[] = "Look up!\n";
