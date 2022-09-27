@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strchr - locates a character in a string.
+ * _*strchr - locates a character in a string.
  * @s: pointer to the char
  * @c: character
  *
