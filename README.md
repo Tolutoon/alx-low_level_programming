@@ -19,7 +19,7 @@ This repository contains programs written for the low-level programming and algo
 * [0x0E. C - Structures, typedef](./0x0E-structures_typedef)
 * [0x0F. C - Function pointers](./0x0F-function_pointers)
 * [0x10. C - Variadic functions](./0x10-variadic_functions)
-* [0x11. C - printf](https://github.com/Cheflolly/printf/tree/main)
+* [0x11. C - printf](https://github.com/cheflolly/printf)
 * [0x12. C - Singly linked lists](./0x12-singly_linked_lists)
 
 
