@@ -1,6 +1,6 @@
 # Low-Level Programming
 
-This repository contains programs written for the low-level programming and algorithm track at ALX-Africa SE. In these projects, which  occurred throughout the duration of the Year 1 curriculum, I learned about data structures, algorithms, and other low-level programming concepts while working in the C language. The specific list of projects contained follows:
+This repository contains programs written for the low-level programming and algorithm track at ALX-Africa.
 
 * [0x00. C - Hello, World](./0x00-hello_world)
 * [0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)
@@ -27,14 +27,4 @@ This repository contains programs written for the low-level programming and algo
 
 * **Olopade Tolu** 
 
-## Acknowledgements
-
-All work contained in this project was completed as part of the curriculum for ALX Africa SE. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com//).
-
-<p align="center">
-  <img
-   src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
-       alt="ALX Africa Logo"
-  >
-</p>
 
