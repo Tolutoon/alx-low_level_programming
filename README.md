@@ -25,6 +25,6 @@ This repository contains programs written for the low-level programming and algo
 
 ## Author
 
-* **Olopade Tolu** 
+* **Olopade Tolulola** 
 
 
