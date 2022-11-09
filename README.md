@@ -26,7 +26,6 @@ This repository contains programs written for the low-level programming and algo
 * [0x15. C - File I/0](./0x15-file_io) 
 * [0x16. C - Simple shell](https://github.com/cheflolly/simple_shell)
 
-***
 
 ## Author
 
