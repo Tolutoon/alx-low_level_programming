@@ -24,6 +24,9 @@ This repository contains programs written for the low-level programming and algo
 * [0x13. C - More Singly linked lists](./0x13-more_singly_linked_lists)
 * [0x14. C - Bit manipulation](./0x14-bit_manipulation)
 * [0x15. C - File I/0](./0x15-file_io) 
+* [0x16. C - Simple shell](https://github.com/cheflolly/simple_shell)
+
+***
 
 ## Author
 
