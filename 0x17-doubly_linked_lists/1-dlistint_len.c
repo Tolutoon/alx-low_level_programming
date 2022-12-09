@@ -4,7 +4,7 @@
  * dlistint_len - a function that returns the number
  *                of elements in this double linked list.
  * @h: head pointer
- * 
+ *
  * Return: number of elements in the linked list
  */
 
